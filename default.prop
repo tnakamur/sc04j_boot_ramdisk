@@ -33,6 +33,6 @@ debug.atrace.tags.enableflags=0
 #
 # BOOTIMAGE_BUILD_PROPERTIES
 #
-ro.bootimage.build.date=Tue Oct 9 16:38:21 KST 2018
-ro.bootimage.build.date.utc=1539070701
-ro.bootimage.build.fingerprint=samsung/SC-04J/SC-04J:8.0.0/R16NW/SC04JOMU1BRJ2:user/test-keys
+ro.bootimage.build.date=Tue Nov 27 12:12:16 KST 2018
+ro.bootimage.build.date.utc=1543288336
+ro.bootimage.build.fingerprint=samsung/SC-04J/SC-04J:8.0.0/R16NW/SC04JOMU1BRK1:user/test-keys
